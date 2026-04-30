@@ -16,7 +16,7 @@
 ## 📦 Usage
 
 ```cpp
-#include "process.h"
+#include "process_test.h"
 
 int pid = 1234; // target process ID
 std::vector<std::string> dlls = grabDlls(pid);
@@ -55,8 +55,8 @@ This allows you to enumerate all modules loaded in a process without dealing wit
 
 ```
 getDll/
-├── process.h
-├── process.cpp
+├── process_test.h
+├── process_test.cpp
 └── getDll.lib
 ```
 
