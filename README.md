@@ -65,7 +65,7 @@ getDll/
 ## 🎯 Goal
 
 This library is designed for beginners who want to explore Windows internals without getting overwhelmed by raw WinAPI usage.
-It abstracts the complexity into a single, easy-to-use function.
+It abstracts the complexity into a single easy-to-use function.
 
 ---
 
